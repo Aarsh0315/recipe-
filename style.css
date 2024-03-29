@@ -60,7 +60,7 @@ p{
   margin-top: -21px;
 }
 
-@media (min-width:384px) and (max-width:854px){
+@media (min-width:0px) and (max-width:854px){
   h1{
     top: 61px;
     left: 95px;;
@@ -68,7 +68,7 @@ p{
   }
 }
 
-@media (min-width:384px) and (max-width:854px){
+@media (min-width:0px) and (max-width:854px){
   .container{
     height: 203px;
     width: 174px;
